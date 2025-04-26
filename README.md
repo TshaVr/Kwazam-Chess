@@ -47,3 +47,11 @@ the **Sau** piece is captured.
    ```bash
    git clone https://github.com/yourusername/custom-chess-game.git
    cd custom-chess-game
+
+2. Open in an IDE like IntelliJ or NetBeans.
+
+3. Make sure image assets are placed in the /images/ folder.
+
+4. Run the Main.java or equivalent main class.
+
+5. Start playing!
