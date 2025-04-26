@@ -1,4 +1,4 @@
-🧠 Custom Chess Game – Java Swing Application
+## 🧠 Custom Chess Game – Java Swing Application
 
 This is a Java-based chess game with **custom pieces and unique rules**, 
 built using the **Model-View-Controller (MVC)** architecture. 
@@ -8,7 +8,7 @@ the **Sau** piece is captured.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧩 Features
+## 🧩 Features
 
 - 🎲 Custom chess pieces: **Tor**, **Xor**, **Sau**, **Biz**, **Ram**
 - 🧠 Unique movement logic for each piece
@@ -20,7 +20,7 @@ the **Sau** piece is captured.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🏗️ Project Structure
+## 🏗️ Project Structure
 
 - **Model:** Logic and data structure (e.g., `ChessBoard`, `ChessPiece`, and piece subclasses)
 - **View:** GUI elements (`BoardView`, rendering pieces and board)
@@ -29,7 +29,7 @@ the **Sau** piece is captured.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧠 Custom Pieces
+## 🧠 Custom Pieces
 
 | Piece | Movement Description        |
 |-------|-----------------------------|
